@@ -80,6 +80,16 @@ SciColor follows an **intentional design philosophy** centered on functional cla
 
 ---
 
+## 🌐 Try It Online
+
+No installation needed — SciColor is available as a hosted web app:
+
+**👉 [https://newtonsappletree.github.io/SciColor/](https://newtonsappletree.github.io/SciColor/)**
+
+Simply open the link in your browser and start building palettes instantly.
+
+---
+
 ## 🖥 Run Locally
 
 > This project was developed with [Google AI Studio](https://aistudio.google.com/).
