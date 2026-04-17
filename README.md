@@ -1,8 +1,19 @@
 <div align="center">
 
-# SciColor: Scientific Color Synthesis Tool
+<img src="https://github.com/user-attachments/assets/d232ec5c-cfb4-4eaa-be8c-b5440e977297" alt="SciColor Banner" width="100%"/>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐%20Live%20Demo-newtonsappletree.github.io%2FSciColor-4A90D9?style=for-the-badge)](https://newtonsappletree.github.io/SciColor/)
+[![GitHub stars](https://img.shields.io/github/stars/NewtonsAppleTree/SciColor?style=for-the-badge&logo=github&color=FFD700)](https://github.com/NewtonsAppleTree/SciColor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/NewtonsAppleTree/SciColor?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/NewtonsAppleTree/SciColor/network)
+[![GitHub license](https://img.shields.io/github/license/NewtonsAppleTree/SciColor?style=for-the-badge)](https://github.com/NewtonsAppleTree/SciColor/blob/main/LICENSE)
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NewtonsAppleTree.SciColor&left_color=gray&right_color=4A90D9&left_text=Visitors)](https://github.com/NewtonsAppleTree/SciColor)
 
 </div>
+
+---
 
 **SciColor** is a premium, minimalist web application designed for scientists and researchers to curate, visualize, and export high-fidelity color palettes for quantitative data. Optimized for publication standards, it bridges the gap between raw data and aesthetic clarity in scientific communication.
 
@@ -122,3 +133,26 @@ After startup, the terminal will display a local address — copy it into your b
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NewtonsAppleTree&theme=flat&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Repository Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewtonsAppleTree&show_icons=true&theme=default&hide_border=true&title_color=4A90D9&icon_color=4A90D9&text_color=333333&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonsAppleTree&layout=compact&theme=default&hide_border=true&title_color=4A90D9&text_color=333333&bg_color=ffffff)
+
+### 🌐 Website Analytics
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnewtonsappletree.github.io%2FSciColor%2F&style=for-the-badge&label=SciColor%20Website&up_message=Online&down_message=Offline&up_color=4CAF50&down_color=f44336)](https://newtonsappletree.github.io/SciColor/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://newtonsappletree.github.io/SciColor/)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NewtonsAppleTree.SciColor&left_color=555555&right_color=4A90D9&left_text=Page%20Views)](https://github.com/NewtonsAppleTree/SciColor)
+
+</div>
