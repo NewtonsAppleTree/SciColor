@@ -1,8 +1,8 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 # SciColor: Scientific Color Synthesis Tool
+
+</div>
 
 **SciColor** is a premium, minimalist web application designed for scientists and researchers to curate, visualize, and export high-fidelity color palettes for quantitative data. Optimized for publication standards, it bridges the gap between raw data and aesthetic clarity in scientific communication.
 
@@ -71,15 +71,54 @@ SciColor follows an **intentional design philosophy** centered on functional cla
 
 ## 🖥 Run Locally
 
-**Prerequisites:** [Node.js](https://nodejs.org/)
+> This project was developed with [Google AI Studio](https://aistudio.google.com/).
+
+### Prerequisites
+
+Install [Node.js](https://nodejs.org/) (LTS version recommended). To verify the installation, run:
+
+```bash
+node -v
+npm -v
+```
+
+Both commands should print a version number.
+
+### Steps
+
+**1. Open the project root directory**
+
+Navigate to the folder containing `package.json`:
+
+```bash
+# Windows example
+cd C:\Users\YourName\Desktop\SciColor
+
+# macOS / Linux example
+cd /Users/YourName/Desktop/SciColor
+```
+
+**2. Install dependencies**
+
+Download all required libraries (creates the `node_modules` folder):
 
 ```bash
 npm install
+```
+
+Wait for the command to finish before proceeding.
+
+**3. Start the development server**
+
+```bash
 npm run dev
 ```
 
-Then open `http://localhost:5173` in your browser.
+**4. Open in your browser**
 
-> Set your `GEMINI_API_KEY` in [.env.local](.env.local) before running.
+After startup, the terminal will display a local address — copy it into your browser:
 
-> View your app in AI Studio: https://ai.studio/apps/7135d7df-3360-45f0-8e71-73b5587e49fe
+```
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+```
