@@ -1,5 +1,7 @@
 <div align="center">
 
+**🌐 Language / 语言：** [English](./README.md) | [简体中文](./README.zh-CN.md)
+
 <img src="https://github.com/user-attachments/assets/39eaf138-28d4-461d-9eaf-48222b6001fe" alt="SciColor Banner" width="100%"/>
 
 <br/>
