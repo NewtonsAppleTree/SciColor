@@ -152,7 +152,7 @@ After startup, the terminal will display a local address — copy it into your b
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NewtonsAppleTree&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NewtonsAppleTree&theme=darkhub" alt="trophy" /></a>
 
 ### 📈 Repository Stats
 
