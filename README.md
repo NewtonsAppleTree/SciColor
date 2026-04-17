@@ -71,16 +71,15 @@ SciColor follows an **intentional design philosophy** centered on functional cla
 
 ## 🖥 Run Locally
 
-**Prerequisites:** Node.js
+**Prerequisites:** [Node.js](https://nodejs.org/)
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   ```bash
-   npm run dev`
-   ```
+```bash
+npm install
+npm run dev
+```
+
+Then open `http://localhost:5173` in your browser.
+
+> Set your `GEMINI_API_KEY` in [.env.local](.env.local) before running.
 
 > View your app in AI Studio: https://ai.studio/apps/7135d7df-3360-45f0-8e71-73b5587e49fe
