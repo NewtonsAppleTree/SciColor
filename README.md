@@ -71,8 +71,6 @@ SciColor follows an **intentional design philosophy** centered on functional cla
 
 ## 🖥 Run Locally
 
-> This project was developed with [Google AI Studio](https://aistudio.google.com/).
-
 ### Prerequisites
 
 Install [Node.js](https://nodejs.org/) (LTS version recommended). To verify the installation, run:
