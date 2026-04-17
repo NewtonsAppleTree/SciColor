@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d232ec5c-cfb4-4eaa-be8c-b5440e977297" alt="SciColor Banner" width="100%"/>
+<img src="https://github.com/user-attachments/assets/39eaf138-28d4-461d-9eaf-48222b6001fe" alt="SciColor Banner" width="100%"/>
 
 <br/>
 
@@ -142,17 +142,11 @@ After startup, the terminal will display a local address — copy it into your b
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NewtonsAppleTree&theme=flat&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Repository Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewtonsAppleTree&show_icons=true&theme=default&hide_border=true&title_color=4A90D9&icon_color=4A90D9&text_color=333333&bg_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonsAppleTree&layout=compact&theme=default&hide_border=true&title_color=4A90D9&text_color=333333&bg_color=ffffff)
-
-### 🌐 Website Analytics
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnewtonsappletree.github.io%2FSciColor%2F&style=for-the-badge&label=SciColor%20Website&up_message=Online&down_message=Offline&up_color=4CAF50&down_color=f44336)](https://newtonsappletree.github.io/SciColor/)
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://newtonsappletree.github.io/SciColor/)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NewtonsAppleTree.SciColor&left_color=555555&right_color=4A90D9&left_text=Page%20Views)](https://github.com/NewtonsAppleTree/SciColor)
 
 </div>
